@@ -1,2 +1,2 @@
 # android-flow
-Flow driven navigation for MVI
+Flow driven navigation for Android applications
